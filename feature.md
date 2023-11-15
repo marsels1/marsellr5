@@ -1,3 +1,3 @@
-**Hello New Feature**
+# Hey! I'm a New Feature! :3
 
-Call me new killer-feature!
+## Call me new Killer-feature!
